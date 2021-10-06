@@ -1,3 +1,4 @@
+Скомпилированные сборки для ВСЕХ версий (скачать): https://disk.yandex.ru/d/S2ULM9vN-RBBfw
 Скачать актуальную версию - https://github.com/WarGack/PSKiller/raw/master/PSKiller.zip
 Пароль на архив: warnight.net
 
